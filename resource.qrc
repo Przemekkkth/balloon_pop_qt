@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/sprite/balloon.png</file>
+        <file>res/sprite/bg.png</file>
+        <file>res/fonts/juniory.ttf</file>
+        <file>res/snd/pistol.wav</file>
+        <file>res/snd/pop1.wav</file>
+        <file>res/sprite/crosshair.png</file>
+    </qresource>
+</RCC>
