@@ -19,3 +19,4 @@ qmake && make
 * [Juniory font](https://www.dafont.com/juniory.font) - dafont website
 * [Pistol SFX](https://opengameart.org/content/chaingun-pistol-rifle-shotgun-shots) - pistol sfx(opengameart)
 * [Pop SFX](https://opengameart.org/content/3-pop-sounds) - popping sfx(opengameart)
+* [Gameplay](https://youtu.be/mClrskccUG8) - youtube
